@@ -76,6 +76,6 @@
 	}
 	else
 	{
-		echo "only request from crystal punch is allowed.";
+		echo "only request from BINGO-X is allowed.";
 	}
 ?>
